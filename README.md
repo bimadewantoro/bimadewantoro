@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bima Dewantoro </h1>
 	
 ## About
 Hello, I am Backend Developer, working on multiple projects, mainly backend using Laravel. I have created many project to grow up my skill. And I'm never stop to learning !
@@ -7,7 +7,7 @@ Hello, I am Backend Developer, working on multiple projects, mainly backend usin
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/bimadewantoro/">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/bimadewantoro">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.instagram.com/bimadewantoro/">![Instagram](logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/bimadewantoro">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 -------------------
 
