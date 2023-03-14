@@ -7,7 +7,7 @@ Hello, I am Backend Developer, working on multiple projects, mainly backend usin
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/bimadewantoro/">![Instagram](logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/bimadewantoro">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.instagram.com/bimadewantoro/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href="https://twitter.com/bimadewantoro">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
 -------------------
 
