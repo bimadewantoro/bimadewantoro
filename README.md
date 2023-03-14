@@ -23,6 +23,3 @@ Hello, I am Backend Developer, working on multiple projects, mainly backend usin
 ![bimadewantoro github streak](https://github-readme-streak-stats.herokuapp.com/?user=bimadewantoro&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
-
------
-Credits: [LachlanDev](https://github.com/LachlanDev)
