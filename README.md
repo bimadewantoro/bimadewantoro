@@ -2,8 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bima Dewantoro </h1>
 	
 ## About
-Hello, I am Backend Developer, working on multiple projects, mainly backend using Laravel. I have created many project to grow up my skill. And I'm never stop to learning !
-
+As a Software Engineer with 2 years of experience, I have developeda strong skill set in backend engineering and cloud engineering. am proficient in programming languages such as PHP, JS, and GO. have experience working with databases such as MYSQL and PostgreSQL. am also experienced in working with cloud platforms such as AWS and Google Cloud Platform. I am confident that my diverse skill set and experience make me a valuable asset to any team.
 -------------------
 
 ## Contact
