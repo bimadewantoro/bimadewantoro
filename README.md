@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bima Dewantoro </h1>
 	
 ## About
-As a Software Engineer with 2 years of experience, I have developed a strong skill set in backend engineering and cloud engineering. I am proficient in programming languages such as PHP, Python, and GO. I have experience working with databases such as MYSQL and PostgreSQL. I am also experienced in working with cloud platforms such as AWS and Google Cloud Platform. I am confident that my diverse skill set and experience make me a valuable asset to any team.
+Software Engineer with experience building scalable, high-performance applications across backend, frontend, and cloud platforms. Skilled in delivering production-ready solutions, collaborating in cross-functional teams, and applying agile practices to solve real-world problems and drive business value.
 -------------------
 
 ## Contact
